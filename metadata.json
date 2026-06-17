@@ -1,0 +1,6 @@
+{
+  "name": "Parkour Race Game Specification",
+  "description": "パルクールをモチーフとした3Dアクション×レースゲームの仕様書",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
